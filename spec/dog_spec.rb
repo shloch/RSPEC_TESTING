@@ -1,7 +1,4 @@
 
-require './lib/cal'
-
-
 require './lib/dog'
 
 RSpec.describe Dog do
